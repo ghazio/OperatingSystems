@@ -1,0 +1,6 @@
+Our policy keeps a track of how many times each page has been accessed
+during the entire page history. Each time we have to evict a frame,
+we go through all of the valid pages of our page table, and evict the one that
+has been accessed the least(lowest count number). We maintain the number of times
+a page has been accessed by the system. Each time access function is called onto
+it, we increase the count for that particular page.

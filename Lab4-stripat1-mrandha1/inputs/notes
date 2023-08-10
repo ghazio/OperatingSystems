@@ -1,0 +1,9 @@
+For the provided files, use a VAS size that is 65536 bytes and a page size that is 4096 bytes.  You can vary the PAS size in multiples of 4096, starting from a minimum of 8192.
+
+weighted_small (50 addresses)
+weighted_large (500 addresses)
+    The sequence of page accesses was weighted such that lower-numbered pages are more likely to appear.
+
+uniform_small (50 addresses)
+uniform_large (500 addresses)
+    The sequence of page accesses was chosen with uniform weights.
