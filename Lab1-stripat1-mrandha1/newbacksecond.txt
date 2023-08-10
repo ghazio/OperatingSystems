@@ -1,0 +1,27 @@
+original cmd sort
+new path: /usr/bin/sort
+Path_second fork: /usr/bin/sort
+Makefile
+Path_first fork: /bin/ls
+README.md
+cs45shell
+cs45shell.c
+err.txt
+input.txt
+new path: /bin/ls
+new.txt
+newback.txt
+newbackfirst.txt
+newbacksecond.txt
+original cmd ls
+out.txt
+output.txt
+parsecmd.c
+parsecmd.h
+parsecmd.o
+sleeper
+sleeper.c
+standard_out_error.c
+testcommands.txt
+tester
+tester.c

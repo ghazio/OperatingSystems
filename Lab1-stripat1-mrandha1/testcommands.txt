@@ -1,0 +1,9 @@
+pwd 
+cd /home/mrandha1/cs31
+pwd
+history
+!1
+ls
+ls -l <a1 1>a2 2> a3 | asd -ld <b1 1> b2 2> b3
+exit
+the end!!!

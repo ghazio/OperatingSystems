@@ -1,0 +1,12 @@
+original cmd ./standard_out_error
+Before execv
+(out): line 0
+(out): line 1
+(out): line 2
+(out): line 3
+(out): line 4
+(out): line 5
+(out): line 6
+(out): line 7
+(out): line 8
+(out): line 9
